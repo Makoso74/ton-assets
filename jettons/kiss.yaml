@@ -1,0 +1,9 @@
+name: KISS Coin
+description: TON KISS project coin
+image: "https://cache.tonapi.io/imgproxy/Rdh2PM1Nqiv7jwtSngeWh_XU6pqnAIPYGX2lsIPi1yQ/rs:fill:200:200:1/g:no/aHR0cHM6Ly9tYWtvc283NC5naXRodWIuaW8va2lzcy9JTUdfMTgzMi5QTkc.webp"
+address: 0:04f2c01bbf132822b376b40b8e7b8bc8e47e098671c8fb39f6568472f9a807ec
+symbol: KISS
+max_supply: 5000000000000000000
+social:
+  - "https://t.me/KISS_Coin"
+  - "https://t.me/KISSCoinChat"
