@@ -3,7 +3,7 @@ description: TON KISS project coin
 image: "https://makoso74.github.io/kiss/IMG_1832.PNG"
 address: EQAE8sAbvxMoIrN2tAuOe4vI5H4JhnHI-zn2VoRy-agH7BCn
 symbol: KISS
-max_supply: 5000000000000000000
+max_supply: 5000000000
 social:
   - "https://t.me/KISS_Coin"
   - "https://t.me/KISSCoinChat"
